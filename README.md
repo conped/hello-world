@@ -1,2 +1,5 @@
 # hello-world
-Just another reository
+
+Hi there!
+
+Conny here testing GitHub out for a spin.
